@@ -27,7 +27,7 @@ This portfolio demonstrates proficiency in:
 ## How to Use This Repository
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Yers11/PortfolioProjects.git
+   git clone https://github.com/yamangeldi/PortfolioProjects.git
    ```
 2. Navigate to the project folders for detailed code, explanations, and datasets (if applicable).
 3. Follow the README file inside each project folder for instructions on running the code.
