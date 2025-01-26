@@ -1,4 +1,4 @@
-# Portfolio Projects: Python and SQL
+# Portfolio Projects: Python, SQL, Power BI and Tableau
 
 Welcome to my portfolio repository! This space showcases my data analysis and problem-solving projects using **Python** and **SQL**. Each project highlights various techniques and tools I have applied to gain insights, automate workflows, and manipulate data effectively.
 
