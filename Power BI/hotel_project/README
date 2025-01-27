@@ -1,0 +1,49 @@
+Hotel Revenue Analysis and Visualization Project
+📊 Project Overview
+This project demonstrates an end-to-end data analysis and visualization workflow. It focuses on analyzing revenue and operational metrics for a hotel business. The dataset was processed and queried using Microsoft SQL Server and visualized in Power BI to provide actionable insights.
+
+🔍 Objectives
+The project addresses the following key business questions:
+
+Is hotel revenue growing by year?
+Should the parking lot sizes be increased?
+What trends can we see in the data?
+
+🚀 Tools and Technologies
+SQL: Used for data querying and preprocessing in Microsoft SQL Server.
+Power BI: Used to create the interactive dashboard for visualization.
+📈 Dashboard Features
+The Power BI dashboard provides insights into:
+
+Total Revenue: $10.23M total revenue across all years.
+Key Metrics:
+Average ADR: $104.47
+Total Nights Booked: 367.78K
+Average Discount: 25.81%
+Car Parking Requirements: 8.69K spaces
+Trends Over Time: A time-series analysis of revenue by reservation date and hotel type (City vs. Resort).
+Revenue Distribution: Comparison of revenue between City Hotel and Resort Hotel (53.62% vs. 46.38%).
+Parking Utilization: Annual trends in parking space requirements.
+
+💡 Key Insights
+1. Is hotel revenue growing by year?
+Yes. Revenue grew significantly from $1.2M in 2018 to $5.5M in 2019 and $3.5M in 2020 (partial data).
+2. Should we increase parking lot size?
+No. Parking requirements remained stable, with an average utilization of 2.36%. Expanding the parking lot is unnecessary based on the current data.
+3. What trends can we see in the data?
+Revenue Trends: Strong growth in 2019, followed by stabilization in 2020.
+Hotel Comparison: Resort Hotels contribute slightly more revenue (53.62%) than City Hotels (46.38%).
+Operational Metrics: Discounts and ADR remained consistent, with slight fluctuations over time.
+
+🛠️ How to Use This Repository
+SQL Analysis:
+Download the SQL script
+Run the queries in Microsoft SQL Server to recreate the dataset.
+Power BI Dashboard:
+Open the .pbix file in Power BI Desktop.
+Interact with the dashboard or customize it as needed.
+📧 Contact
+Feel free to reach out with questions or suggestions:
+
+Email: yamangeldi@umass.edu
+LinkedIn: linkedin.com/in/yamangeldi
