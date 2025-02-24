@@ -1,0 +1,32 @@
+HR Analytics Project - Power BI Dashboard
+
+Project Overview
+This project aims to analyze employee working patterns and sick leave patterns using Power BI. The dashboard provides HR professionals with key insights into workforce trends, helping them make data-driven decisions.
+
+Key Questions Addressed
+1. **Working Preferences of Employees**
+   - Do employees prefer working from home or the office?
+   - Which days have the most workers in the office or at home?
+
+2. **Sick Leave Patterns**
+   - What are the common reasons employees take sick leave?
+   - Are there specific periods when significantly more people take sick leave?
+
+Data & Methodology
+- Data Source: HR dataset containing employee attendance, work location preferences, and sick leave records.
+- Tools Used: Power BI for data cleaning, visualization and analysis.
+- Data Cleaning: Processed raw data, handled missing values, and standardized categorical variables.
+- Visualization Techniques: Used area charts, line charts, cards, date filters and tables to represent trends effectively.
+
+Final Dashboard Features
+- Interactive filters for selecting specific date ranges, departments, and work preferences.
+- Trend analysis of sick leaves across different time periods.
+- Insights & Recommendations for HR teams to optimize workforce planning and health policies.
+
+Future Improvements
+- Automate data updates for real-time analytics.
+- Implement predictive modeling to forecast future sick leave trends.
+
+Conclusion
+This HR Analytics project provides valuable insights into workforce behavior and health patterns. The Power BI dashboard enables HR teams to make data-driven decisions, improving workplace efficiency and employee well-being.
+
